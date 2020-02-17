@@ -1,4 +1,4 @@
-# fudget
+# fudget 💸
 A fun budget app, fudget
 
 ## Goal
